@@ -8,6 +8,7 @@ blueprint:
       description: Opple remote to use
       selector:
         device:
+          integration: deconz
           manufacturer: LUMI
           model: lumi.remote.b486opcn01
     
